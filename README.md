@@ -1,2 +1,0 @@
-# CURSO PUESTA EN PRODUCCIÓN SEGURA
-Bienvenidos a GitHub
