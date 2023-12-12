@@ -1,5 +1,7 @@
 Escribid vuestro nombre de usuario y al lado, entre paréntesis, vuestro nombre completo: 
 - RICARDO-GB (Ricardo García Banquetero).
-- RobertoEP   (Roberto Encinar Pascual)
-
-
+- RobertoEP   (Roberto Encinar Pascual).
+- mruiza17 (Marcos Ruiz Arroyo).
+- vjp-joseluisMM (JoseLuis Muñoz Melchor).
+-vicen-(vicente garcía vicente).
+- vjp-AlvaroDT (Álvaro Domínguez Tejeda).
