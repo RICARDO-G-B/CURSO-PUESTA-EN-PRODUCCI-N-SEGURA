@@ -7,4 +7,4 @@ Escribid vuestro nombre de usuario y al lado, entre paréntesis, vuestro nombre 
 -vicen-(vicente garcía vicente).
 -raulsanchez02-(Raúl Sánchez Gil).
 - vjp-AlvaroDT (Álvaro Domínguez Tejeda).
-- vjp-AlejandroRS (Alejandro Rodríguez Sánchez)
+- vjp-AlejandroRS (Alejandro Rodríguez Sánchez).
