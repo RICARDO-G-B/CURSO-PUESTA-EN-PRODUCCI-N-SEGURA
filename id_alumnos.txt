@@ -1,7 +1,4 @@
 Escribid vuestro nombre de usuario y al lado, entre paréntesis, vuestro nombre completo: 
-<<<<<<< HEAD
-- alopezh23 (Álvaro López Hernandez)
-=======
 - vjp-rubenrc (Rubén Retortillo Candeleda)
 - RICARDO-GB (Ricardo García Banquetero).
 - RobertoEP   (Roberto Encinar Pascual).
@@ -13,4 +10,4 @@ Escribid vuestro nombre de usuario y al lado, entre paréntesis, vuestro nombre 
 -raulsanchez02-(Raúl Sánchez Gil).
 - vjp-AlvaroDT (Álvaro Domínguez Tejeda).
 - vjp-AlejandroRS (Alejandro Rodríguez Sánchez).
->>>>>>> 4198ae4ff512eb31164a2b646f1ddfe16dd715c9
+alopezh23 (Alvaro Lopez Hernandez)
