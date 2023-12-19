@@ -10,3 +10,4 @@ Escribid vuestro nombre de usuario y al lado, entre paréntesis, vuestro nombre 
 -raulsanchez02-(Raúl Sánchez Gil).
 - vjp-AlvaroDT (Álvaro Domínguez Tejeda).
 - vjp-AlejandroRS (Alejandro Rodríguez Sánchez).
+- vjp-danielGP (Daniel Gallardo Pérez)
